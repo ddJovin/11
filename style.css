@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  background-color: rgba(128, 0, 128, 0.162);
+  font-family: "Montserrat", sans-serif;
+  /* font-family: "Montserrat Alternates", sans-serif; */
+}
+
+table {
+  width: 850px;
+  height: 230px;
+  background-color: rgba(0, 128, 0, 0.567);
+  border-radius: 5px;
+  border: 2px solid;
+  margin-bottom: 30px;
+  margin-left: 295px;
+}
+
+td {
+  text-align: center;
+  border: 1px dashed rgba(255, 255, 255, 0.304);
+}
+
+th {
+  border: 1px dashed;
+}
+
+h1 {
+  width: 1440px;
+  text-align: center;
+  margin: 0px 0px;
+}
